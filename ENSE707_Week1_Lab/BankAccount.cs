@@ -1,4 +1,6 @@
 namespace ENSE707_Week1_Lab;
+using ENSE707_Week1_Lab;
+
 public class BankAccount
 {
     public string AccountHolder { get; }
